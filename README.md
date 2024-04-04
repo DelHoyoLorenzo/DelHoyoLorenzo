@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lorenzo Martin del Hoyo</h1>
+<h1 align="center">Hi 👋, I'm Lorenzo Martin Del Hoyo</h1>
 <h3 align="center">Full Stack Developer from Argentina</h3>
 
 - 👨‍💻 All of my projects are available at [https://portfolio-4432a.web.app/](https://portfolio-4432a.web.app/)
