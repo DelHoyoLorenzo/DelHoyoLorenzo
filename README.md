@@ -1,11 +1,3 @@
-<h1 align="center">Hi 👋, I'm Lorenzo Martin Del Hoyo</h1>
-<h3 align="center">Full Stack Developer from Argentina</h3>
-
-- 👨‍💻 All of my projects are available at [https://portfolio-4432a.web.app/](https://portfolio-4432a.web.app/)
-
-- 📫 How to reach me **delhoyo.lorenzo@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/lorenzo-del-hoyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lorenzo-del-hoyo" height="30" width="40" /></a>
 </p>
